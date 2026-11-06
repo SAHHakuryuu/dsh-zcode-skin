@@ -1,0 +1,3 @@
+- insert:
+    - id: zcode-skin
+      name: '@local/zcode-skin'

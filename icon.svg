@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="zcode-icon-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ce6ac"/>
+      <stop offset="1" stop-color="#00a878"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="17" fill="#0b100d" stroke="#22302a" stroke-width="2"/>
+  <path d="M20.4 19.2h23.2v5.8l-13.8 13.4h13.8v5.8H20.4v-5.8l13.8-13.4H20.4z" fill="url(#zcode-icon-gradient)"/>
+  <rect x="42.8" y="41.8" width="4.4" height="8.6" rx="1" fill="#5ce6ac" opacity="0.85"/>
+</svg>
